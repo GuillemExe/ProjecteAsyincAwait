@@ -1,0 +1,14 @@
+C:\Users\Guillem\source\repos\PracticaAsyncAwait\PracticaAsyncAwait\bin\Debug\PracticaAsyncAwait.exe.config
+C:\Users\Guillem\source\repos\PracticaAsyncAwait\PracticaAsyncAwait\bin\Debug\PracticaAsyncAwait.exe
+C:\Users\Guillem\source\repos\PracticaAsyncAwait\PracticaAsyncAwait\bin\Debug\PracticaAsyncAwait.pdb
+C:\Users\Guillem\source\repos\PracticaAsyncAwait\PracticaAsyncAwait\obj\Debug\PracticaAsyncAwait.csprojAssemblyReference.cache
+C:\Users\Guillem\source\repos\PracticaAsyncAwait\PracticaAsyncAwait\obj\Debug\MainWindow.g.cs
+C:\Users\Guillem\source\repos\PracticaAsyncAwait\PracticaAsyncAwait\obj\Debug\App.g.cs
+C:\Users\Guillem\source\repos\PracticaAsyncAwait\PracticaAsyncAwait\obj\Debug\PracticaAsyncAwait_MarkupCompile.cache
+C:\Users\Guillem\source\repos\PracticaAsyncAwait\PracticaAsyncAwait\obj\Debug\PracticaAsyncAwait_MarkupCompile.lref
+C:\Users\Guillem\source\repos\PracticaAsyncAwait\PracticaAsyncAwait\obj\Debug\MainWindow.baml
+C:\Users\Guillem\source\repos\PracticaAsyncAwait\PracticaAsyncAwait\obj\Debug\PracticaAsyncAwait.g.resources
+C:\Users\Guillem\source\repos\PracticaAsyncAwait\PracticaAsyncAwait\obj\Debug\PracticaAsyncAwait.Properties.Resources.resources
+C:\Users\Guillem\source\repos\PracticaAsyncAwait\PracticaAsyncAwait\obj\Debug\PracticaAsyncAwait.csproj.GenerateResource.cache
+C:\Users\Guillem\source\repos\PracticaAsyncAwait\PracticaAsyncAwait\obj\Debug\PracticaAsyncAwait.exe
+C:\Users\Guillem\source\repos\PracticaAsyncAwait\PracticaAsyncAwait\obj\Debug\PracticaAsyncAwait.pdb
