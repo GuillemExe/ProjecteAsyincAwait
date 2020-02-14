@@ -27,5 +27,9 @@
         <TextBox x:Name="TextBoxExplorerFolder" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2"/>
 
         <ListBox x:Name="ListBoxDirectoriesButton1" Grid.Row="2" Grid.Column="1"/>
+        <ListBox x:Name="ListBoxDirectoriesButton2" Grid.Row="2" Grid.Column="2"/>
+
+        <Label x:Name="LabelTimeSetButton1" Grid.Row="3" Grid.Column="1"/>
+        <Label x:Name="LabelTimeSetButton2" Grid.Row="3" Grid.Column="2"/>
     </Grid>
 </Window>
